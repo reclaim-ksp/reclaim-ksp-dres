@@ -4,7 +4,7 @@ This mod ~~replaces~~ adds Dres, the urban legend referenced in KSP 1 memes, bas
 
 Features:
 - the rings
-- similar terrain as described in the collective hallucination
+- similar terrain as described in the mass hallucination
 - with colors adjusted for less jaundice and to be more fitting for something that actually exists!
 
 ![KSP 2 Dres (top) adapted to KSP 1 (bottom)](.github/rsc/img/compare-ksp2-ksp1.png) 
