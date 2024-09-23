@@ -1,0 +1,5 @@
+# CKAN
+*.ckan
+
+# Temp folder
+.temp/
