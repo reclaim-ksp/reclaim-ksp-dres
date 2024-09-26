@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"vivaxy.vscode-conventional-commits",
+			"al2me6.ksp-cfg-support"
+		]
+	}
+}
